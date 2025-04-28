@@ -7,7 +7,7 @@ dirname = os.path.dirname(__file__)
 filename = os.path.join(dirname, '../deeplog')
 
 # 设置当前目录
-os.chdir('G:\\李新明\\10.博文论文资料\\1.代码集合\\logbert-main\\HDFS')
+# os.chdir('G:\\李新明\\10.博文论文资料\\1.代码集合\\logbert-main\\HDFS')
 
 
 import argparse
